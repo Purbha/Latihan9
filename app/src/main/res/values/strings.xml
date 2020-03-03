@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Latihan9</string>
+    <string name="skala">
+        Bintang 5: Sangat Setuju\n
+        Bintang 4: Setuju\n
+        Bintang 3: Kurang Setuju\n
+        Bintang 2: Tidak Setuju\n
+        Bintang 1: Sangat Tidak Setuju
+    </string>
+    <string name="MainActivity_Konfirmasi">Yakin mau keluar dari sistem?</string>
+    <string name="textView_Main_Judul">Program Rating Bar</string>
+    <string name="button_Main_Exit">Exit</string>
+    <string name="button_Main_Submit">Submit</string>
+</resources>
