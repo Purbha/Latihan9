@@ -11,4 +11,5 @@
     <string name="textView_Main_Judul">Program Rating Bar</string>
     <string name="button_Main_Exit">Exit</string>
     <string name="button_Main_Submit">Submit</string>
+    <string name="ratingBar_Main_Rate">Rating Bar Rate</string>
 </resources>
