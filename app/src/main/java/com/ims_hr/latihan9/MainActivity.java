@@ -73,7 +73,6 @@ public class MainActivity extends AppCompatActivity {
                     .setCancelable(false)
                     .setPositiveButton("Iya", (dialog, which) -> finish())
                     .setNegativeButton("Nggak", (dialog, which) -> dialog.cancel());
-
             AlertDialog alert = a_builder.create();
             alert.setTitle("Konfirmasi");
             alert.show();
